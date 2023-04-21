@@ -1,4 +1,6 @@
 # Password Generator Starter Code
+
+![alt text](./develop/Screenshot%202023-04-20%20at%208.35.47%20PM.png)
 Develop a web-based tool that generates a unique password by taking into account criteria selected by the user. The application will utilize JavaScript to dynamically update the HTML and CSS, and will have a visually appealing and user-friendly interface. Additionally, it will be responsive, allowing it to adapt seamlessly to various screen sizes.
 
 ## User Story
