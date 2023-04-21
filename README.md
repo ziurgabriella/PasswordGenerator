@@ -1,5 +1,4 @@
 # Password Generator Starter Code
-file:///Users/gabriella/Documents/PasswordGenerator/friendly-parakeet/Develop/index.html
 Develop a web-based tool that generates a unique password by taking into account criteria selected by the user. The application will utilize JavaScript to dynamically update the HTML and CSS, and will have a visually appealing and user-friendly interface. Additionally, it will be responsive, allowing it to adapt seamlessly to various screen sizes.
 
 ## User Story
