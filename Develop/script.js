@@ -139,10 +139,10 @@ if (uppercaseCheck && numberCheck && specialCheck){
   return password;
 }
 
-
 // Write password to the #password input
 function writePassword() {
-  var password = generatePassword();
+  var password1 = " ";
+  var password1 = generatePassword();
   var passwordText = document.querySelector("#password");
 
   passwordText.value = password;
